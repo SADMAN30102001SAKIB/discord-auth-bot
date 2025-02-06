@@ -10,7 +10,7 @@ TOKEN = os.getenv(
     "DISCORD_TOKEN",
     "",
 )
-API_KEY = os.getenv("API_KEY", "TapSs@14023010.com")
+API_KEY = os.getenv("API_KEY", "")
 FLASK_SERVER_URL = "https://sadmansakib.pythonanywhere.com"
 
 intents = discord.Intents.default()
