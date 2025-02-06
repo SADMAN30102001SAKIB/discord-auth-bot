@@ -11,7 +11,7 @@ TOKEN = os.getenv(
     "",
 )
 API_KEY = os.getenv("API_KEY", "")
-FLASK_SERVER_URL = "https://sadmansakib.pythonanywhere.com"
+FLASK_SERVER_URL = ""
 
 intents = discord.Intents.default()
 intents.message_content = True
