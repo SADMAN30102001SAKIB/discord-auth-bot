@@ -8,7 +8,7 @@ from discord.ext import commands
 
 TOKEN = os.getenv(
     "DISCORD_TOKEN",
-    "MTI5NDAxNjE4MDE5NzEzMDI1MQ.GB93Tg.wTqieZt3A3BvSMxP6cNr5O7LVsNXRzslBaVGQM",
+    "",
 )
 API_KEY = os.getenv("API_KEY", "TapSs@14023010.com")
 FLASK_SERVER_URL = "https://sadmansakib.pythonanywhere.com"
